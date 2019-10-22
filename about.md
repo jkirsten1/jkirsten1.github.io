@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+My name is Jake Kirsten. I'm a senior at Northern Michigan University studying information security and graduate in December. I developed a passion for cybersecurity after expressing interest in software engineering. At the time a professor at Wayne State University urged me to persue cybersecurity as a way to compliment the growing software engineering field, and all it took was one networking class to get me hooked. 
 
-### More Information
+## About the blog
 
-A place to include any other types of information that you'd like to include about yourself.
+I will be documenting my learning process here as I continue to develop my penetration testing skills. I want to come back and understand what I might've done wrong or right! While I believe I developed incredible skills during my time in school, there are some things they just don't teach.
 
-### Contact me
+### Email Me
 
-[email@domain.com](mailto:email@domain.com)
+[kirsten.jake@gmail.com](mailto:kirsten.jake@gmail.com)
