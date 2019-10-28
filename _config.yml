@@ -9,8 +9,7 @@ name: Jake Kirsten
 description: Documentation of my independent learning in Cybersecurity
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/jakeprofile.jpg
-
+avatar: https://raw.githubusercontent.com/jkirsten1/jkirsten1.github.io/master/images/jakeprofile.jpg
 #
 # Flags below are optional
 #
