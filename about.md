@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-My name is Jake Kirsten. I'm a senior at Northern Michigan University studying information security and graduate in December. I developed a passion for cybersecurity after expressing interest in software engineering. At the time a professor at Wayne State University urged me to persue cybersecurity as a way to compliment the growing software engineering field, and all it took was one networking class to get me hooked. 
+My name is Jake Kirsten. I'm a senior at Northern Michigan University studying information security and graduate in December. I developed a passion for cybersecurity after expressing interest in software engineering. At the time a professor at Wayne State University urged me to pursue cybersecurity as a way to compliment the growing software engineering field, and all it took was one networking class to get me hooked. 
 
 ## About the blog
 
